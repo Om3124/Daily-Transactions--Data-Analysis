@@ -1,1 +1,5 @@
 # Daily-Transactions--Data-Analysis
+
+In this project, I analyzed a daily transaction dataset to uncover patterns, trends, and useful insights. I started by loading the dataset, checking its structure, and handling missing or inconsistent values. Basic exploratory data analysis was performed, including summary statistics and visualizations, to understand transaction volumes, frequency, and customer behavior over time. I also examined categorical variables such as payment methods, transaction categories, or product types, and converted them into suitable formats for analysis.
+
+Further, I used visualizations like bar charts, line plots, and pie charts to identify spending trends, seasonal patterns, and high-frequency categories. I applied grouping and aggregation techniques to calculate daily totals, averages, and category-wise contributions. This allowed me to highlight which products, customers, or payment types contributed most to overall transactions. The analysis not only revealed key insights into daily business operations but also helped establish a foundation for predictive modeling and better decision-making in the future.
